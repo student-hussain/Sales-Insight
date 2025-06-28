@@ -1,4 +1,5 @@
 📊 Sales Insight Dashboard
+
 Comprehensive Sales Performance Analysis Across Markets
 An interactive, professional-grade Power BI dashboard that provides a complete overview of company sales performance—offering insights into market contribution, profit trends, and revenue patterns over time.
 
@@ -76,3 +77,5 @@ Interactive filters for Year and Month help users analyze specific time frames.
 💬 Sales Conversations: Empower sales teams with accurate data for targeting high-value clients.
 📊 Data Transparency: Provides a clear snapshot of business health for stakeholders and investors.
 5. Screenshots / Demos
+Example:
+https://github.com/student-hussain/Sales-Insight/blob/main/Snapshot%20of%20Dashboard.png
