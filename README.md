@@ -85,7 +85,7 @@ Interactive filters for **Year & Month** to zoom into specific time frames.
 
 > Add your dashboard screenshots or GIF demos here  
 
-![Dashboard Preview]((https://github.com/student-hussain/Sales-Insight/blob/main/Snapshot%20of%20Dashboard.png))  
+![Dashboard Preview](https://github.com/student-hussain/Sales-Insight/blob/main/Snapshot%20of%20Dashboard.png)  
 *Example: Sales Overview Page*
 
 ---
